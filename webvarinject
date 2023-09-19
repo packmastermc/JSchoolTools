@@ -1,0 +1,1 @@
+javascript:var injectprompt = prompt("Enter variable to inject into website... ");
